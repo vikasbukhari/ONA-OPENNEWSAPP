@@ -1,6 +1,6 @@
 # ONA - WordPress Android Version
 
- :tw-1f6a7: ** iOS Version of App has not been tested yet.**
+** iOS Version of App has not been tested yet.**
 
 
 ## About The App

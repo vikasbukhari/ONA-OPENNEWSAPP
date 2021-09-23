@@ -1,3 +1,4 @@
+
 # ONA - WordPress Android Version
 ![](https://miro.medium.com/max/1400/1*F6Ko-BtPaRI2cNG6rWrJMQ.jpeg)
 .
@@ -113,3 +114,7 @@ In `constants.js`file, change the values of below given constant values.
 
 Once you have downloaded the JSON file, Go to `assets/loading`file and replace `newsload1` with the file you download, keep the filename to `newsload1`.
 
+## App Credits
+
+React Native: [Vikas Bukhari](https://github.com/vikasbukhari/) 
+WordPress API's: [Nasir Khan](https://github.com/nasir22)

@@ -1,13 +1,15 @@
 # ONA - WordPress Android Version
+![](https://miro.medium.com/max/1400/1*F6Ko-BtPaRI2cNG6rWrJMQ.jpeg)
+.
+.
 
-** iOS Version of App has not been tested yet.**
+:exclamation: ** iOS Version of App has not been tested yet.**
 
 
 ## About The App
 
-OSN or Open Source News app is an open source react native based application for wordpress news and blog websites.
+ONA or Open News App is an open source React Native Based Application for WordPress News and Blog Websites.
 
-A Demo of the App is available here 
 
 ## Features
 
@@ -18,6 +20,8 @@ A Demo of the App is available here
 * Separate Categories Section.
 * External Links to privacy and other pages.
 
+![](https://miro.medium.com/max/700/1*wY2kGWl2YbFA41qtSBb7uQ.png)
+![](https://miro.medium.com/max/700/1*P3ib-wBsUDNdpZy_-a10qQ.png)
 ## How to Run the App
 
 To Run or test the app on your PC.
